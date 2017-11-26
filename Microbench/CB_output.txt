@@ -1,0 +1,358 @@
+Attempting to delete value from buffer
+Buffer is empty
+Value deleted -1
+Front -1 Rear -1
+
+Insert 77 into buffer
+Front 0 Rear 0
+
+Attempting to delete value from buffer
+Value deleted 77
+Front -1 Rear -1
+
+Attempting to delete value from buffer
+Buffer is empty
+Value deleted -1
+Front -1 Rear -1
+
+Attempting to delete value from buffer
+Buffer is empty
+Value deleted -1
+Front -1 Rear -1
+
+Insert 92 into buffer
+Front 0 Rear 0
+
+Attempting to delete value from buffer
+Value deleted 92
+Front -1 Rear -1
+
+Attempting to delete value from buffer
+Buffer is empty
+Value deleted -1
+Front -1 Rear -1
+
+Insert 27 into buffer
+Front 0 Rear 0
+
+Insert 59 into buffer
+Front 0 Rear 1
+
+Attempting to delete value from buffer
+Value deleted 27
+Front 1 Rear 1
+
+Insert 40 into buffer
+Front 1 Rear 2
+
+Insert 72 into buffer
+Front 1 Rear 3
+
+Insert 11 into buffer
+Front 1 Rear 4
+
+Insert 67 into buffer
+Front 1 Rear 5
+
+Attempting to delete value from buffer
+Value deleted 59
+Front 2 Rear 5
+
+Insert 30 into buffer
+Front 2 Rear 6
+
+Insert 23 into buffer
+Front 2 Rear 7
+
+Attempting to delete value from buffer
+Value deleted 40
+Front 3 Rear 7
+
+Attempting to delete value from buffer
+Value deleted 72
+Front 4 Rear 7
+
+Attempting to delete value from buffer
+Value deleted 11
+Front 5 Rear 7
+
+Insert 22 into buffer
+Front 5 Rear 8
+
+Insert 69 into buffer
+Front 5 Rear 9
+
+Attempting to delete value from buffer
+Value deleted 67
+Front 6 Rear 9
+
+Attempting to delete value from buffer
+Value deleted 30
+Front 7 Rear 9
+
+Insert 11 into buffer
+Front 7 Rear 0
+
+Insert 29 into buffer
+Front 7 Rear 1
+
+Attempting to delete value from buffer
+Value deleted 23
+Front 8 Rear 1
+
+Attempting to delete value from buffer
+Value deleted 22
+Front 9 Rear 1
+
+Attempting to delete value from buffer
+Value deleted 69
+Front 0 Rear 1
+
+Insert 37 into buffer
+Front 0 Rear 2
+
+Insert 24 into buffer
+Front 0 Rear 3
+
+Attempting to delete value from buffer
+Value deleted 11
+Front 1 Rear 3
+
+Insert 13 into buffer
+Front 1 Rear 4
+
+Insert 91 into buffer
+Front 1 Rear 5
+
+Insert 56 into buffer
+Front 1 Rear 6
+
+Attempting to delete value from buffer
+Value deleted 29
+Front 2 Rear 6
+
+Insert 70 into buffer
+Front 2 Rear 7
+
+Insert 81 into buffer
+Front 2 Rear 8
+
+Attempting to delete value from buffer
+Value deleted 37
+Front 3 Rear 8
+
+Attempting to delete value from buffer
+Value deleted 24
+Front 4 Rear 8
+
+Insert 27 into buffer
+Front 4 Rear 9
+
+Insert 5 into buffer
+Front 4 Rear 0
+
+Insert 29 into buffer
+Front 4 Rear 1
+
+Attempting to delete value from buffer
+Value deleted 13
+Front 5 Rear 1
+
+Attempting to delete value from buffer
+Value deleted 91
+Front 6 Rear 1
+
+Insert 95 into buffer
+Front 6 Rear 2
+
+Insert 45 into buffer
+Front 6 Rear 3
+
+Insert 67 into buffer
+Front 6 Rear 4
+
+Insert 64 into buffer
+Front 6 Rear 5
+
+Attempting to delete value from buffer
+Value deleted 56
+Front 7 Rear 5
+
+Insert 87 into buffer
+Front 7 Rear 6
+
+Insert 76 into buffer
+Buffer full
+Front 7 Rear 6
+
+Insert 88 into buffer
+Buffer full
+Front 7 Rear 6
+
+Insert 3 into buffer
+Buffer full
+Front 7 Rear 6
+
+Attempting to delete value from buffer
+Value deleted 70
+Front 8 Rear 6
+
+Insert 99 into buffer
+Front 8 Rear 7
+
+Insert 60 into buffer
+Buffer full
+Front 8 Rear 7
+
+Insert 68 into buffer
+Buffer full
+Front 8 Rear 7
+
+Attempting to delete value from buffer
+Value deleted 81
+Front 9 Rear 7
+
+Insert 26 into buffer
+Front 9 Rear 8
+
+Insert 94 into buffer
+Buffer full
+Front 9 Rear 8
+
+Attempting to delete value from buffer
+Value deleted 27
+Front 0 Rear 8
+
+Attempting to delete value from buffer
+Value deleted 5
+Front 1 Rear 8
+
+Insert 34 into buffer
+Front 1 Rear 9
+
+Insert 67 into buffer
+Front 1 Rear 0
+
+Attempting to delete value from buffer
+Value deleted 29
+Front 2 Rear 0
+
+Attempting to delete value from buffer
+Value deleted 95
+Front 3 Rear 0
+
+Insert 17 into buffer
+Front 3 Rear 1
+
+Insert 52 into buffer
+Front 3 Rear 2
+
+Insert 1 into buffer
+Buffer full
+Front 3 Rear 2
+
+Insert 86 into buffer
+Buffer full
+Front 3 Rear 2
+
+Attempting to delete value from buffer
+Value deleted 45
+Front 4 Rear 2
+
+Attempting to delete value from buffer
+Value deleted 67
+Front 5 Rear 2
+
+Attempting to delete value from buffer
+Value deleted 64
+Front 6 Rear 2
+
+Insert 19 into buffer
+Front 6 Rear 3
+
+Insert 29 into buffer
+Front 6 Rear 4
+
+Attempting to delete value from buffer
+Value deleted 87
+Front 7 Rear 4
+
+Attempting to delete value from buffer
+Value deleted 99
+Front 8 Rear 4
+
+Attempting to delete value from buffer
+Value deleted 26
+Front 9 Rear 4
+
+Attempting to delete value from buffer
+Value deleted 34
+Front 0 Rear 4
+
+Attempting to delete value from buffer
+Value deleted 67
+Front 1 Rear 4
+
+Attempting to delete value from buffer
+Value deleted 17
+Front 2 Rear 4
+
+Attempting to delete value from buffer
+Value deleted 52
+Front 3 Rear 4
+
+Attempting to delete value from buffer
+Value deleted 19
+Front 4 Rear 4
+
+Attempting to delete value from buffer
+Value deleted 29
+Front -1 Rear -1
+
+Insert 97 into buffer
+Front 0 Rear 0
+
+Attempting to delete value from buffer
+Value deleted 97
+Front -1 Rear -1
+
+Insert 65 into buffer
+Front 0 Rear 0
+
+Insert 83 into buffer
+Front 0 Rear 1
+
+Attempting to delete value from buffer
+Value deleted 65
+Front 1 Rear 1
+
+Insert 28 into buffer
+Front 1 Rear 2
+
+Attempting to delete value from buffer
+Value deleted 83
+Front 2 Rear 2
+
+Insert 29 into buffer
+Front 2 Rear 3
+
+Attempting to delete value from buffer
+Value deleted 28
+Front 3 Rear 3
+
+Attempting to delete value from buffer
+Value deleted 29
+Front -1 Rear -1
+
+Insert 68 into buffer
+Front 0 Rear 0
+
+Insert 15 into buffer
+Front 0 Rear 1
+
+Insert 49 into buffer
+Front 0 Rear 2
+
+Insert 23 into buffer
+Front 0 Rear 3
+
